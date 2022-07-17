@@ -68,4 +68,4 @@ heading does not include Before Heading Out…
 - [ ]
 
 
-[[Study Plan and Index|Study Plan and Index]]
+[[Dhruv's Digital Garden - Index|Dhruv's Digital Garden - Index]]
