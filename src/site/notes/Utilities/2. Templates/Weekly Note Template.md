@@ -139,4 +139,4 @@ SORT file.name ASC
 ```
 
 
-[[Study Plan and Index|Study Plan and Index]]
+[[Dhruv's Digital Garden - Index|Dhruv's Digital Garden - Index]]
