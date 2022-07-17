@@ -8,4 +8,4 @@ With cold-blooded triumphant verve, Drumm began the presentation of his case, sm
 
 ---
 
-[[Book Highlights/0. Directory|0. Directory]]
+[[Book Highlights/0. Book Highlights Directory|0. Book Highlights Directory]]
