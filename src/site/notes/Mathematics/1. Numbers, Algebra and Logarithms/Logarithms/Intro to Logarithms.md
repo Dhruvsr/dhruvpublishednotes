@@ -33,4 +33,4 @@ $$\log_{2} 8=3$$
 2
 
 
-[[Study Plan and Index|Study Plan and Index]]
+[[Dhruv's Digital Garden - Index|Dhruv's Digital Garden - Index]]
