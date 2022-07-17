@@ -9,7 +9,7 @@
 - Biology
 	- [[Biology/Campbell/0. Campbell Chapters|0. Campbell Chapters]]
 - Chemistry
-	- [[Chemistry/Organic Chemistry/0. Wade Organic Chemistry|0. Wade Organic Chemistry]]
+	- [[Chemistry/Organic Chemistry/0. Task List Wade Organic Chemistry|0. Task List Wade Organic Chemistry]]
 - Books, English, Vocabulary, &c
 	- [[Book Highlights/0. Directory|0. Directory]]
 	- [[English/Vocabulary List|Vocabulary List]]
