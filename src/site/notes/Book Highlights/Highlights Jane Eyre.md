@@ -23,4 +23,4 @@ Still indomitable was the reply—“I care for myself. The more solitary, the m
 
 ---
 
-[[Book Highlights/0. Directory|0. Directory]]
+[[Book Highlights/0. Book Highlights Directory|0. Book Highlights Directory]]
