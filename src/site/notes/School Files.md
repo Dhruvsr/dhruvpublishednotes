@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/school-files/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
-# School Files & Organizing
+# School Files & Organizing 🏫
 ```toc
 
 ```
