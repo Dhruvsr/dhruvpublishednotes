@@ -23,7 +23,7 @@ Also, do note that some of the formatting, colours, theming and highlighting doe
 	- *Please note that my in-class notes remain handwritten*
 - **Books, English, Vocabulary, &c** 📚
 	- [[Book Highlights/0. Book Highlights Directory|0. Book Highlights Directory]]
-	- [[English/Vocabulary List|Vocabulary List]]
+	- [[English/Vocabulary List|English/Vocabulary List]]
 - **IDU** 💭
 	- [[IDU/0. IDU Directory|0. IDU Directory]]
 - **Humanities/I&S** 🙋‍♂️
