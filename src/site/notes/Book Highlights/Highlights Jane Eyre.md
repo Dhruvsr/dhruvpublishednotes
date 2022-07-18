@@ -4,10 +4,11 @@
 
 # Jane Eyre
 ## Highlights
-Each picture told a story; mysterious often to my undeveloped understanding and imperfect feelings, yet ever profoundly interesting: as interesting as the tales Bessie sometimes narrated on winter evenings, when she chanced to be in good humour; and when, having brought her ironing-table to the nursery hearth, she allowed us to sit about it, and while she got up Mrs. Reed’s lace frills, and crimped her nightcap borders, fed our eager attention with passages of love and adventure taken from old fairy tales and other ballads; or (as at a later period I discovered) from the pages of Pamela, and Henry, Earl of Moreland — location: []() ^ref-33871
+
+Each picture told a story; mysterious often to my undeveloped understanding and imperfect feelings, yet ever profoundly interesting: as interesting as the tales Bessie sometimes narrated on winter evenings, when she chanced to be in good humour; and when, having brought her ironing-table to the nursery hearth, she allowed us to sit about it, and while she got up Mrs. Reed’s lace frills, and crimped her nightcap borders, fed our eager attention with passages of love and adventure taken from old fairy tales and other ballads; or (as at a later period I discovered) from the pages of Pamela, and Henry, Earl of Moreland
 
 ---
-came at tea-time, in the shape of a double ration of bread—a whole, instead of a half, slice—with the delicious addition of a thin scrape of butter: it was the hebdomadal treat to which we all looked forward from Sabbath to Sabbath. I generally contrived to reserve a moiety of this bounteous repast for myself; but the remainder I was invariably obliged to part with. — location: []() ^ref-28398
+came at tea-time, in the shape of a double ration of bread—a whole, instead of a half, slice—with the delicious addition of a thin scrape of butter: it was the hebdomadal treat to which we all looked forward from Sabbath to Sabbath. I generally contrived to reserve a moiety of this bounteous repast for myself; but the remainder I was invariably obliged to part with.
 
 ---
 though rank and wealth sever us widely, I have something in my brain and heart, in my blood and nerves, that assimilates me mentally to him — location: []() ^ref-10123
