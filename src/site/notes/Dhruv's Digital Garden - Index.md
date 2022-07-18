@@ -7,7 +7,7 @@
 **Hello, and welcome to** <mark class="Green">Dhruv's Digital Garden!</mark> 
 In this repository, you will be able to navigate through the intricacies of my **second brain** 🧠, or at least that's what I want this to be. 
 This isn't the *full access* to all my notes, but through this directory you will be able to access the ones that I wish to keep public. 
-**If I have linked you to a specific note and you arrive here**, you may be confused. Hence, if this is the case please go to the exact link which I may have sent you to avoid any confusion.
+**If I have linked you to a specific note and you arrive here**, you may be confused. If this is the case please go to the exact link which I may have sent you to avoid any confusion.
 Also, do note that some of the formatting, colours, theming and highlighting does not fully render when viewed online.
 
 # Main Directory 🧭
@@ -21,6 +21,14 @@ Also, do note that some of the formatting, colours, theming and highlighting doe
 - **Chemistry** 🧪
 	- [[Chemistry/Organic Chemistry/0. Organic Chemistry Directory|0. Organic Chemistry Directory]]
 	- *Please note that my in-class notes remain handwritten*
+- **Physics** 🔬
+	- *For now, these files are placeholders*
+	- [[Physics/Classical Mechanics/0. Classical Mechanics Directory|0. Classical Mechanics Directory]]
+	- [[Physics/Thermodynamics/0. Thermodynamics Directory|0. Thermodynamics Directory]]
+	- [[Electromagnetism|Electromagnetism]]
+	- [[Physics/Relativistic Mechanics/0. Relativistic Mechanics Directory|0. Relativistic Mechanics Directory]]
+	- [[Physics/Quantum Mechanics/0. Quantum Mechanics Directory|0. Quantum Mechanics Directory]]
+	- [[Physics/Optics/0. Optics Directory|0. Optics Directory]]
 - **Books, English, Vocabulary, &c** 📚
 	- [[Book Highlights/0. Book Highlights Directory|0. Book Highlights Directory]]
 	- [[English/Vocabulary List|English/Vocabulary List]]
