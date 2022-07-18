@@ -22,13 +22,8 @@ Also, do note that some of the formatting, colours, theming and highlighting doe
 	- [[Chemistry/Organic Chemistry/0. Organic Chemistry Directory|0. Organic Chemistry Directory]]
 	- *Please note that my in-class notes remain handwritten*
 - **Physics** 🔬
+	- [[Physics/0. Physics Directory|0. Physics Directory]]
 	- *For now, these files are placeholders*
-	- [[Physics/Classical Mechanics/0. Classical Mechanics Directory|0. Classical Mechanics Directory]]
-	- [[Physics/Thermodynamics/0. Thermodynamics Directory|0. Thermodynamics Directory]]
-	- [[Electromagnetism|Electromagnetism]]
-	- [[Physics/Relativistic Mechanics/0. Relativistic Mechanics Directory|0. Relativistic Mechanics Directory]]
-	- [[Physics/Quantum Mechanics/0. Quantum Mechanics Directory|0. Quantum Mechanics Directory]]
-	- [[Physics/Optics/0. Optics Directory|0. Optics Directory]]
 - **Books, English, Vocabulary, &c** 📚
 	- [[Book Highlights/0. Book Highlights Directory|0. Book Highlights Directory]]
 	- [[English/Vocabulary List|English/Vocabulary List]]
