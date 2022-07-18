@@ -35,7 +35,7 @@ Also, do note that some of the formatting, colours, theming and highlighting doe
 - **Personal Project** 📝
 	- [[Personal Project/0. Personal Project Directory|0. Personal Project Directory]]
 - **Be the Change** 🤔
-	- [[Be the Change/0. Be the Change Directory|0. Be the Change Directory]]
+	- [[Community Service/Be the Change/0. Be the Change Directory|0. Be the Change Directory]]
 - **Mathematics** 🗒
 	- [[Mathematics/0. Mathematics Directory|0. Mathematics Directory]]
 	- *Please note that I do not take digital notes for this subject.*
