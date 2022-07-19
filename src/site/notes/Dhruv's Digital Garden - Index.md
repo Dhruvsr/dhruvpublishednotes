@@ -21,10 +21,15 @@ Also, do note that some of the formatting, colours, theming and highlighting doe
 - **Chemistry** 🧪
 	- [[Chemistry/Organic Chemistry/0. Organic Chemistry Directory|0. Organic Chemistry Directory]]
 	- *Please note that my in-class notes remain handwritten*
+-  **Be the Change** 🤔
+	- [[Community Service/Be the Change/0. Be the Change Directory|0. Be the Change Directory]]
+- **Theatre** 🎭
+	- [[Theatre/0. Theatre Directory|0. Theatre Directory]]
 - **Physics** 🔬
 	- [[Physics/0. Physics Directory|0. Physics Directory]]
 	- *For now, these files are placeholders*
 - **Books, English, Vocabulary, &c** 📚
+	- [[English/0. English Directory|0. English Directory]]
 	- [[Book Highlights/0. Book Highlights Directory|0. Book Highlights Directory]]
 	- [[English/Vocabulary List|English/Vocabulary List]]
 - **IDU** 💭
