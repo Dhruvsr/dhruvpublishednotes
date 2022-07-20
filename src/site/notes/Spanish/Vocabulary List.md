@@ -11,7 +11,7 @@
 - El borrador - Duster
 - La silla - Chair
 - La mochila - backpack
-- El lapiz - pencil
+- El lápiz - pencil
 - La grapadora - stapler
 - La regla - Ruler
 - La aula - classroom
