@@ -878,4 +878,7 @@ Q24)
     
 7.  Midio 
     
-8.  Despedio**
+8.  Despedio
+
+
+### Mas Que, Menos Que
