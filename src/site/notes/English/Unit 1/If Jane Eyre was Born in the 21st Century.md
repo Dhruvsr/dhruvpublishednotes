@@ -14,5 +14,3 @@
 > [!important] 
 > bildungsroman, **class of novel that depicts and explores the manner in which the protagonist develops morally and psychologically**. The German word Bildungsroman means “novel of education” or “novel of formation.” (Britannica.com)
 
-
-# 
