@@ -881,4 +881,51 @@ Q24)
 8.  Despedio
 
 
-### Mas Que, Menos Que
+### Mas Que, Menos Que (Page 24)
+
+(16)
+1. Carlos es **mas** alto **que** Enrique
+2. Elena es **menos** alta que su Amiga
+3. El senor Gonzalez tiene mas dinero que yo.
+4. Los Andes son mas altos que los Pirineos.
+5. Ellos tienen **mas** suerte que nosotros
+6. mas, que
+7. menos, que
+8. mas, que
+9. mas, que
+10. mas, que
+11. mas, que
+12. menos, que
+
+(17)
+1. Teresa es mas alta que su hermana
+2. Carlos tiene mas dinero que Paco
+3. Esta casa es mas grande que la otra casa
+4. Rhode Island es mas pequeño que Texas. 
+5. Isabel es mas rica que su prima.
+
+(18)
+1. mas, de
+2. mas, que
+3. menos, de
+4. menos, de
+5. mas, que
+
+(19)
+1. la, mas, de
+2. la, mas, de
+3. los, mas, de
+4. el, mas, de
+5. el, mas, de
+6. los, mas, de
+7. el, mas, de
+8. la, mas, de
+9. el, mas, de
+10. la, mas, de
+
+(20)
+1. Barcelona es el puerto mas importante de la España
+2. Madrid tiene mas habitantes de Barcelona 
+3. Los Pirineos son montanas mas altas de la España
+4. El rio Tajo es mas largo de rio Guadalquivir
+5. Andalucía es mas grande de las Asturias
