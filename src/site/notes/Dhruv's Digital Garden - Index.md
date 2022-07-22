@@ -44,5 +44,8 @@ Also, do note that some of the formatting, colours, theming and highlighting doe
 - **Mathematics** 🗒
 	- [[Mathematics/0. Mathematics Directory|0. Mathematics Directory]]
 	- *Please note that I do not take digital notes for this subject.*
+- **Random/Extracurricular/[[Extracurricular/0. Personal Studies Directory|0. Personal Studies Directory]]**
+	- [[Extracurricular/Geoguessr|Geoguessr]]
+
 
 
