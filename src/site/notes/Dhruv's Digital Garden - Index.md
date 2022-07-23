@@ -22,7 +22,7 @@ Also, do note that some of the formatting, colours, theming and highlighting doe
 	- [[Chemistry/Organic Chemistry/0. Organic Chemistry Directory|0. Organic Chemistry Directory]]
 	- *Please note that my in-class notes remain handwritten*
 -  **Be the Change** 🤔
-	- [[Community Service/Be the Change/0. Be the Change Directory|0. Be the Change Directory]]
+	- [[Extracurricular/Community Service/Be the Change/0. Be the Change Directory|0. Be the Change Directory]]
 - **Theatre** 🎭
 	- [[Theatre/0. Theatre Directory|0. Theatre Directory]]
 - **Physics** 🔬
@@ -40,7 +40,7 @@ Also, do note that some of the formatting, colours, theming and highlighting doe
 - **Personal Project** 📝
 	- [[Personal Project/0. Personal Project Directory|0. Personal Project Directory]]
 - **Be the Change** 🤔
-	- [[Community Service/Be the Change/0. Be the Change Directory|0. Be the Change Directory]]
+	- [[Extracurricular/Community Service/Be the Change/0. Be the Change Directory|0. Be the Change Directory]]
 - **Mathematics** 🗒
 	- [[Mathematics/0. Mathematics Directory|0. Mathematics Directory]]
 	- *Please note that I do not take digital notes for this subject.*
